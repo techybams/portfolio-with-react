@@ -1,0 +1,54 @@
+body{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  overflow-x: hidden;
+  background-color: white;
+}
+
+.navbar{
+  background-color: rgb(78, 189, 78);
+  padding: 1.5rem;
+}
+
+.navbar-brand{
+  color: white;
+}
+.navbar-brand:hover{
+  color: black;
+}
+
+.nav-link{
+  color: white;
+}
+.nav-link:hover{
+  color: black;
+}
+
+.nav-item{
+  margin-right: 2rem;
+}
+
+.description{
+  margin-top: 10rem;
+}
+
+.description h1{
+  font-size: 3.5rem;
+}
+
+.description p{
+  color: green;
+  font-size: 1.3rem;
+}
+
+.view{
+  background-color: lightgray;
+}
+
+.about-me{
+  margin-top: 5rem;
+  border-radius: 50%;
+  background-color: greenyellow;
+  width: 25rem;
+}
